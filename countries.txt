@@ -21,16 +21,19 @@ Cambodia
 Cameroon
 Canada
 Central African Republic
+Chad
 Chile
 China
-Republic of the Congo
 Cook Islands
 Costa Rica
 Croatia
 Cyprus
 Czech Republic
+Côte d'Ivoire
+DR Congo
 Denmark
 Dominica
+Dominican Republic
 Ecuador
 Egypt
 El Salvador
@@ -50,7 +53,6 @@ Hong Kong
 Iceland
 Ireland
 Italy
-Côte d'Ivoire
 Jamaica
 Japan
 Jordan
@@ -62,6 +64,7 @@ Lebanon
 Lesotho
 Liberia
 Libya
+Liechtenstein
 Luxembourg
 Madagascar
 Malawi
@@ -70,6 +73,7 @@ Maldives
 Malta
 Mauritius
 Mexico
+Monaco
 Mongolia
 Montenegro
 Myanmar
@@ -86,12 +90,8 @@ Peru
 Philippines
 Poland
 Portugal
-Liechtenstein
-Monaco
 Qatar
-Maldives
-Dominican Republic
-DR Congo
+Republic of the Congo
 Rwanda
 Saint Lucia
 Senegal
@@ -110,15 +110,14 @@ Switzerland
 Syria
 Taiwan
 Tanzania
-Chad
 Thailand
 Togo
 Trinidad and Tobago
 Tunisia
 Turkey
-United Arab Emirates
 Uganda
 Ukraine
+United Arab Emirates
 United Kingdom
 United States of America
 Zambia
