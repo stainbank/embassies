@@ -6,7 +6,7 @@ Aruba
 Australia
 Austria
 Azerbaijan
-BAHAMAS
+Bahamas
 Bangladesh
 Barbados
 Belarus
@@ -20,10 +20,10 @@ Burundi
 Cambodia
 Cameroon
 Canada
-Centrafrique
+Central African Republic
 Chile
 China
-Congo Brazzaville
+Republic of the Congo
 Cook Islands
 Costa Rica
 Croatia
@@ -44,13 +44,13 @@ Germany
 Ghana
 Greece
 Grenada
-GUINEE
+Guinea
 Honduras
 Hong Kong
 Iceland
 Ireland
 Italy
-Ivory Coast
+Côte d'Ivoire
 Jamaica
 Japan
 Jordan
@@ -61,48 +61,37 @@ Latvia
 Lebanon
 Lesotho
 Liberia
-libya
+Libya
 Luxembourg
 Madagascar
 Malawi
 Malaysia
 Maldives
 Malta
-MAURITIUS
-México
+Mauritius
+Mexico
 Mongolia
 Montenegro
-MYANMAR
-Nederland
+Myanmar
 Nepal
 Netherlands
 New Zealand
 Niger
-NIGER
-NIGERIA
-NIGERIA
-NIGERIA
 Nigeria
-Nigeria
-NIGERIA
-Norway
-Norway
-Norway
-Norway
 Norway
 Oman
 Palestine
-Panamá
-Perú
+Panama
+Peru
 Philippines
 Poland
 Portugal
-Principality of Liechtenstein
-Principauté de Monaco
+Liechtenstein
+Monaco
 Qatar
-REPUBLIC OF MALDIVES
-República Dominicana
-RÉPUBLIQUE DÉMOCRATIQUE du Congo
+Maldives
+Dominican Republic
+DR Congo
 Rwanda
 Saint Lucia
 Senegal
@@ -121,17 +110,16 @@ Switzerland
 Syria
 Taiwan
 Tanzania
-Tchad
+Chad
 Thailand
 Togo
 Trinidad and Tobago
 Tunisia
 Turkey
-UAE
+United Arab Emirates
 Uganda
 Ukraine
 United Kingdom
 United States of America
 Zambia
 Zimbabwe
-
