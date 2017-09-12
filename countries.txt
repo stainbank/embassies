@@ -14,7 +14,7 @@ Belgium
 Belize
 Benin
 Brazil
-Brunei Darussalam
+Brunei
 Burkina Faso 
 Burundi
 Cambodia
@@ -49,7 +49,6 @@ Greece
 Grenada
 Guinea
 Honduras
-Hong Kong
 Iceland
 Ireland
 Italy
@@ -57,7 +56,7 @@ Jamaica
 Japan
 Jordan
 Kenya
-Korea
+South Korea
 Kuwait
 Latvia
 Lebanon
@@ -119,6 +118,6 @@ Uganda
 Ukraine
 United Arab Emirates
 United Kingdom
-United States of America
+United States
 Zambia
 Zimbabwe
